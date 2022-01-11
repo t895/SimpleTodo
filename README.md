@@ -4,7 +4,7 @@
 
 Submitted by: **Charles Lombardo**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -20,7 +20,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+* [ ] Changing order of list items
+* [ ] Add completion due dates
+* [ ] Add more visual feedback for taps
 
 ## Video Walkthrough
 
@@ -31,6 +34,7 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Managing imports during conflicts and installing the hypervisor for AMD processors to get my emulator running
 
 ## License
 
